@@ -1,4 +1,4 @@
-#Hi there! I'm Eduardo Janini 👋
+# Hi there! I'm Eduardo Janini 👋
 I'm a Data Analyst and Chemical Engineer in Brazil 🌎
 
 🔭 I’m currently working as a Data Analyst at Xometry.
